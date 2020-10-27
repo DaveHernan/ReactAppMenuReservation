@@ -1,2 +1,0 @@
-C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2008.12711.0_x64__8wekyb3d8bbwe\MyOffice.ManagedBackgroundTasks.winmd	637361795104591932
-C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2008.12711.0_x64__8wekyb3d8bbwe\\WinMetadata\Windows.winmd	637067166280649653
